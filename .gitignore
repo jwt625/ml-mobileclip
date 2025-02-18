@@ -131,3 +131,9 @@ dmypy.json
 # macOS
 **/.DS_Store
 
+*.npz
+/clipenv/bin
+/clipenv/share/jupyter
+/clipenv
+*.pt
+*.JPG
